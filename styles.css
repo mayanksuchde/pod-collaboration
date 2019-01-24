@@ -1,0 +1,10 @@
+.yoyoyo{
+    height: 30px;
+    width: 500px;
+    text-align: center;
+    color: white;
+    font-family: Verdana; 
+    background: darkslategrey;
+    border: 2px solid black;
+    border-radius: 10px;
+}
