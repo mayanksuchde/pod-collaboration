@@ -1,51 +1,20 @@
+.roisins-rap{
+    color: rgb(233, 55, 85);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.yoyoyo{
+    height: 30px;
+    width: 500px;
+    text-align: center;
+    color: white;
+    font-family: Verdana; 
+    background: darkslategrey;
+    border: 2px solid black;
+    border-radius: 10px;
+}
 
 .haiku {
     font-family: cursive;
